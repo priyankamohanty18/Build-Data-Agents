@@ -61,3 +61,7 @@ The chatbot is designed for read-only governance analysis:
 
 This project is intended as a practical portfolio example of integrating Snowflake governance, metadata management, role-based access control, natural-language SQL, and generative AI.
 
+<img width="1705" height="1039" alt="image" src="https://github.com/user-attachments/assets/5040218a-7a75-4220-8a41-b80f5fe06330" />
+
+
+
