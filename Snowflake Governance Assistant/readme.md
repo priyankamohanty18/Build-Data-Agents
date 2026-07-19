@@ -40,7 +40,7 @@ Snowflake Governance Metadata
   * `OBJECT_GRANT`
 
 The metadata repository can be populated from Snowflake `ACCOUNT_USAGE` views, including object metadata, tags, masking-policy references, grants, and role relationships.
-Snowflake_Scripts.sql contains the required SQL scripts.
+* 'Snowflake_Scripts.sql' contains the required SQL scripts.
 
 ## Security
 
