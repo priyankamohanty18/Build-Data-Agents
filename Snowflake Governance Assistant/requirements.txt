@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+snowflake-sqlalchemy
+snowflake-connector-python
+sqlalchemy
+python-dotenv
